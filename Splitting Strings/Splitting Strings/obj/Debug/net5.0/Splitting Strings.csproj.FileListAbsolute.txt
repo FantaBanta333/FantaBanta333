@@ -1,0 +1,16 @@
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\bin\Debug\net5.0\Splitting Strings.exe
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\bin\Debug\net5.0\Splitting Strings.deps.json
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\bin\Debug\net5.0\Splitting Strings.runtimeconfig.json
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\bin\Debug\net5.0\Splitting Strings.runtimeconfig.dev.json
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\bin\Debug\net5.0\Splitting Strings.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\bin\Debug\net5.0\ref\Splitting Strings.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\bin\Debug\net5.0\Splitting Strings.pdb
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\obj\Debug\net5.0\Splitting Strings.csproj.AssemblyReference.cache
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\obj\Debug\net5.0\Splitting Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\obj\Debug\net5.0\Splitting Strings.AssemblyInfoInputs.cache
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\obj\Debug\net5.0\Splitting Strings.AssemblyInfo.cs
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\obj\Debug\net5.0\Splitting Strings.csproj.CoreCompileInputs.cache
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\obj\Debug\net5.0\Splitting Strings.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\obj\Debug\net5.0\ref\Splitting Strings.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\obj\Debug\net5.0\Splitting Strings.pdb
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Splitting Strings\Splitting Strings\obj\Debug\net5.0\Splitting Strings.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\obj\Debug\net5.0\Lab Histogram.csproj.AssemblyReference.cache
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\obj\Debug\net5.0\Lab Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\obj\Debug\net5.0\Lab Histogram.AssemblyInfoInputs.cache
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\obj\Debug\net5.0\Lab Histogram.AssemblyInfo.cs
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\obj\Debug\net5.0\Lab Histogram.csproj.CoreCompileInputs.cache
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\bin\Debug\net5.0\Lab Histogram.exe
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\bin\Debug\net5.0\Lab Histogram.deps.json
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\bin\Debug\net5.0\Lab Histogram.runtimeconfig.json
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\bin\Debug\net5.0\Lab Histogram.runtimeconfig.dev.json
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\bin\Debug\net5.0\Lab Histogram.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\bin\Debug\net5.0\ref\Lab Histogram.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\bin\Debug\net5.0\Lab Histogram.pdb
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\obj\Debug\net5.0\Lab Histogram.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\obj\Debug\net5.0\ref\Lab Histogram.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\obj\Debug\net5.0\Lab Histogram.pdb
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Lab Histogram\Lab Histogram\obj\Debug\net5.0\Lab Histogram.genruntimeconfig.cache

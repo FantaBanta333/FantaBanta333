@@ -1,0 +1,16 @@
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\bin\Debug\net5.0\Dictionaries.exe
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\bin\Debug\net5.0\Dictionaries.deps.json
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\bin\Debug\net5.0\Dictionaries.runtimeconfig.json
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\bin\Debug\net5.0\Dictionaries.runtimeconfig.dev.json
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\bin\Debug\net5.0\Dictionaries.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\bin\Debug\net5.0\ref\Dictionaries.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\bin\Debug\net5.0\Dictionaries.pdb
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\obj\Debug\net5.0\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\obj\Debug\net5.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\obj\Debug\net5.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\obj\Debug\net5.0\Dictionaries.AssemblyInfo.cs
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\obj\Debug\net5.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\obj\Debug\net5.0\Dictionaries.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\obj\Debug\net5.0\ref\Dictionaries.dll
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\obj\Debug\net5.0\Dictionaries.pdb
+C:\Users\banta\OneDrive\Documents\Visual Studio 2019\.vs\Visual Studio 2019\PG2 Cloning Repo\Dictionary\Dictionary\obj\Debug\net5.0\Dictionaries.genruntimeconfig.cache
